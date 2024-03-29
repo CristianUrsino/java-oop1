@@ -1,4 +1,4 @@
 package org.learning.javaBank;
 
-public class Product {
+public class BankAccount {
 }

@@ -1,7 +1,6 @@
 package org.learning.javaBank;
 
-public class Main {
-    public static void main(String[] args) {
+import org.learning.javaShop.Product;
 
-    }
+public class Main {
 }
